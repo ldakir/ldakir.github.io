@@ -1,0 +1,59 @@
+html, body {
+  font-family: "Times New Roman";
+  margin: 2;
+  width: 100%;
+  height: 100%;
+}
+
+
+h1 {
+  padding-left: 100px;
+}
+li{
+  padding-left: 45px;
+}
+
+
+.intro {
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 80px;
+
+  height: 100px;
+
+}
+
+.main {
+  padding-left: 30px;
+  min-width: 75%;
+  background-color: #99e6ff;
+}
+
+.contacts {
+   position:absolute;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+.gmail {
+   display: flex;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+.github {
+   display: flex;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+.facebook {
+   display: flex;
+   padding-top: 1px;
+   padding-bottom: 1px;
+}
+nav ul{
+   display: flex;
+
+}
+
+.avatar {
+  border-radius: 50%;
+}
