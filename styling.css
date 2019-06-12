@@ -1,24 +1,28 @@
 html, body {
   font-family: "Times New Roman";
-  margin: 2;
   width: 100%;
   height: 100%;
 }
 
-
-h1 {
-  padding-left: 100px;
-}
 li{
-  padding-left: 45px;
+  padding-left: 63px;
 }
 
 
 .intro {
   display: flex;
-  padding-top: 50px;
+  padding-top: 0px;
+  padding-left: 0px;
   padding-bottom: 80px;
+  background-color: #99e6ff;
+  height: 100px;
 
+}
+
+.intro_2 {
+  display: inline-block;
+  padding-left: 140px;
+  background-color: #99e6ff;
   height: 100px;
 
 }
@@ -26,7 +30,7 @@ li{
 .main {
   padding-left: 30px;
   min-width: 75%;
-  background-color: #99e6ff;
+
 }
 
 .contacts {
