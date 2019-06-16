@@ -8,7 +8,9 @@ li{
   padding-left: 63px;
 }
 
-
+h2{
+  text-align: center;
+}
 .intro {
   display: flex;
   padding-top: 0px;
@@ -34,24 +36,41 @@ li{
 }
 
 .contacts {
-   position:absolute;
+   display: flex;
    padding-top: 1px;
-   padding-bottom: 1px;
+   padding-bottom: 0px;
+   padding-left: 235px;
+
 }
 .gmail {
    display: flex;
    padding-top: 1px;
    padding-bottom: 1px;
+   padding-left: 10px;
 }
 .github {
    display: flex;
    padding-top: 1px;
    padding-bottom: 1px;
+   padding-left: 20px;
 }
 .facebook {
    display: flex;
    padding-top: 1px;
    padding-bottom: 1px;
+   padding-left: 20px;
+}
+.instagram {
+   display: flex;
+   padding-top: 1px;
+   padding-bottom: 1px;
+   padding-left: 20px;
+}
+.LinkedIn {
+   display: flex;
+   padding-top: 1px;
+   padding-bottom: 1px;
+   padding-left: 20px;
 }
 nav ul{
    display: flex;
